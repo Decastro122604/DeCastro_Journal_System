@@ -1,5 +1,3 @@
-# DeCastro_FinalProject
-
 Mental Wellness Journal Project
 
 This project is a **Mental Wellness Journal** application designed to help users log their moods and things they are grateful for. The program uses Java to manage and display journal entries, providing suggestions and reflections to encourage well-being.
