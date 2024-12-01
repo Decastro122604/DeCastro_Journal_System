@@ -63,7 +63,5 @@ Example Output
    2024-11-29 - Mood: Keep up the positive mindset!
    2024-11-29 - Gratitude: Reflect on your gratitude entries to maintain a positive outlook.
    
-
-Contributing
 Feel free to fork this repository and submit pull requests. If you encounter any issues or have suggestions, please open an issue and I will be happy to help!
 
