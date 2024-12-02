@@ -8,21 +8,22 @@ This project is a **Mental Wellness Journal** application designed to help users
 - View all logged entries with recommendations based on the mood.
 - Easy-to-use, menu-driven interface for user interaction.
 
-🎀Class Structure
-1. Abstract Class - `JournalEntry` 
-   This class serves as a blueprint for all journal entries. It defines common properties like date and type, and abstract methods that child classes must implement.
+🎀 Class Structure 🎀
+1. 🌷Abstract Class🌷
+    `JournalEntry` This class serves as a blueprint for all journal entries. It defines common properties like date and type, and abstract methods that child classes must implement.
 
-2. MoodEntry Class  
+2. 🌷MoodEntry Class🌷 
    This class logs mood-related entries (e.g., Happy, Sad, Anxious) and provides an analysis based on the mood.
 
-3. GratitudeEntry Class  
+3. 🌷GratitudeEntry Class🌷
    This class logs gratitude-related entries and encourages reflection on things the user is thankful for.
 
-4. Main Class - `WellnessJournal`
-   The main program that handles user interaction. It allows users to log entries, view their journal, and receive insights based on their entries.
+4. 🌷Main Class🌷
+   `WellnessJournal` The main program that handles user interaction. It allows users to log entries, view their journal, and receive insights based on their entries.
 
-🎀How It Works
-1. Start the Program: When you run the program, it shows a menu with options to log mood or gratitude entries, or to view all entries.
+🎀 How It Works 🎀
+1. Start the Program:
+   - When you run the program, it shows a menu with options to log mood or gratitude entries, or to view all entries.
    
 2. Logging Mood Entries:  
    - Choose option 1 to log a mood entry.
