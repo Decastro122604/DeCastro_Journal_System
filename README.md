@@ -1,8 +1,8 @@
 # Mental Wellness Journal Project🧘🏼‍♀️🍃
 
-This project is a **Mental Wellness Journal** application designed to help users log their moods and things they are grateful for. The program uses Java to manage and display journal entries, providing suggestions and reflections to encourage well-being.✨
+This project is a **Mental Wellness Journal** application designed to help users log their moods and things they are grateful for. The program uses Java to manage and display journal entries, providing suggestions and reflections to encourage well-being.🍂
 
-🎀Features
+🎀 Features 🎀
 - Log mood entries (e.g., Happy, Sad, Anxious).
 - Log gratitude entries (e.g., "Grateful for my family").
 - View all logged entries with recommendations based on the mood.
@@ -39,7 +39,7 @@ This project is a **Mental Wellness Journal** application designed to help users
 5. Exit the Program:  
    - Choose option 0 to exit.
 
-🎀Example Output
+🎀 Example Output 🎀
 1. Menu:
    ```text
    Welcome to the Mental Wellness Journal!
@@ -62,5 +62,5 @@ This project is a **Mental Wellness Journal** application designed to help users
    2024-11-29 - Mood: Keep up the positive mindset!
    2024-11-29 - Gratitude: Reflect on your gratitude entries to maintain a positive outlook.
    
-Feel free to fork this repository and submit pull requests. If you encounter any issues or have suggestions, please open an issue and I will be happy to help!
+🎀💗🪐Feel free to fork this repository and submit pull requests. If you encounter any issues or have suggestions, please open an issue and I will be happy to help!🪐💗🎀
 
