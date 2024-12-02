@@ -1,14 +1,14 @@
-# Mental Wellness Journal Project
+# Mental Wellness Journal Project🧘🏼‍♀️🍃
 
-This project is a **Mental Wellness Journal** application designed to help users log their moods and things they are grateful for. The program uses Java to manage and display journal entries, providing suggestions and reflections to encourage well-being.
+This project is a **Mental Wellness Journal** application designed to help users log their moods and things they are grateful for. The program uses Java to manage and display journal entries, providing suggestions and reflections to encourage well-being.✨
 
-Features
+🎀Features
 - Log mood entries (e.g., Happy, Sad, Anxious).
 - Log gratitude entries (e.g., "Grateful for my family").
 - View all logged entries with recommendations based on the mood.
 - Easy-to-use, menu-driven interface for user interaction.
 
-Class Structure
+🎀Class Structure
 1. Abstract Class - `JournalEntry` 
    This class serves as a blueprint for all journal entries. It defines common properties like date and type, and abstract methods that child classes must implement.
 
@@ -21,7 +21,7 @@ Class Structure
 4. Main Class - `WellnessJournal`
    The main program that handles user interaction. It allows users to log entries, view their journal, and receive insights based on their entries.
 
-How It Works
+🎀How It Works
 1. Start the Program: When you run the program, it shows a menu with options to log mood or gratitude entries, or to view all entries.
    
 2. Logging Mood Entries:  
@@ -38,7 +38,7 @@ How It Works
 5. Exit the Program:  
    - Choose option 0 to exit.
 
-Example Output
+🎀Example Output
 1. Menu:
    ```text
    Welcome to the Mental Wellness Journal!
